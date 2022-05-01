@@ -10,3 +10,5 @@ We teamed up with Bobby on this project working with SQL to try and get ahead of
   -	Quickdbd = Quick Database Diagram is an online tool to help us map the ERDs so we can see what keys to use.
   -	PostgreSQL is a database system platform that uses the SQL language.
   -	pgAdmin is a web based graphic interface tool used to interact with the Postgres database platform.
+
+![EmployeeDB](https://user-images.githubusercontent.com/100821974/166151229-bcff6f4f-d976-49f3-a8e8-8b703dffea39.png)
