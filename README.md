@@ -14,7 +14,10 @@
 ![EmployeeDB](https://user-images.githubusercontent.com/100821974/166151229-bcff6f4f-d976-49f3-a8e8-8b703dffea39.png)
 
 ### Overview of the analysis
-	We investigated Pewlett-Hackards employees to find how many of the company’s employees could retire at any given time. We discovered 90,398 employees in different varying positions could retire. With this knowledge we know that Pewlett-Hackard needed to prepare themselves for this scenario and start a mentorship program. We did a dive into employment records and focused on the year 1965 and found that in those parameters 1549 employees matched the criteria asked for to be in a mentoring position.
+   We investigated Pewlett-Hackards employees to find how many of the company’s employees could retire at any given time. We discovered 90,398 employees in
+different varying positions could retire. With this knowledge we know that Pewlett-Hackard needed to prepare themselves for this scenario and start a mentorship 
+program. We did a dive into employment records and focused on the year 1965 and found that in those parameters 1549 employees matched the criteria asked for to 
+be in a mentoring position.
 
 
 
